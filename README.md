@@ -1,5 +1,6 @@
 <h2 align="center">🌐 Proyecto Integrador E-Commerce - VendiendoAndo 🌐</h2>
 
+
 <div align="center">
 
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
@@ -14,25 +15,22 @@
 
 ## 📝 Tabla de Contenidos
 - [Sobre el Proyecto](#-sobre-el-proyecto)
-  - [Árbol del Proyecto](#-árbol-del-proyecto)
 - [Requisitos Previos](#-requisitos-previos)
 - [Instalación](#-instalación)
 - [Integrantes](#-integrantes)
 
 
 ## 🧐 Sobre el Proyecto
-Este proyecto es un programa de gestión de stock desarrollado en Python y PostgreSQL, diseñado para ejecutarse en la terminal. Su propósito principal es facilitar la administración de inventarios, permitiendo a los usuarios llevar un control detallado de los productos disponibles.
+Este proyecto es una plataforma de ecommerce, creada con el objetivo de facilitar la compra y venta de productos en línea de manera sencilla y segura. La aplicación permite a los usuarios realizar diferentes acciones que ayudan tanto en la experiencia de compra como en la administración de un negocio en línea.
 
-Las funcionalidades principales del programa incluyen:
+Las principales funcionalidades de la plataforma incluyen:
 
-- **Registrar un producto**
-- **Listar los productos registrados**
-- **Buscar un producto**
-- **Eliminar un producto**
-- **Modificar un producto**
+- **Explorar el catálogo de productos**: Los usuarios pueden ver y navegar por los productos disponibles.
+- **Añadir productos al carrito de compras**: Permite a los clientes seleccionar y agrupar productos que desean adquirir.
+- **Realizar transacciones seguras**: Asegura una experiencia de compra confiable y sencilla.
+- **Gestión administrativa**: Los propietarios pueden actualizar, agregar y eliminar productos, así como consultar reportes de ventas y estadísticas clave del negocio.
 
-Para mejorar la experiencia del usuario, el programa utiliza la librería `tabulate` para imprimir los productos en la consola de una manera clara y organizada.
-
+Estas funciones buscan cubrir las necesidades esenciales de una tienda en línea, optimizando la experiencia tanto para los compradores como para los administradores del sitio.
 
 ## 🤔 Requisitos Previos
 - Instalar [Python](https://www.python.org/downloads/)
