@@ -1,4 +1,4 @@
-<h1 align="center">🌐 Proyecto Integrador E-Commerce - VendiendoAndo 🌐</h1>
+<h2 align="center">🌐 Proyecto Integrador E-Commerce - VendiendoAndo 🌐</h2>
 
 <div align="center">
 
